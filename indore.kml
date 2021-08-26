@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1Z1KOTS_tPv6i2wj6LLw9cjnyV2oejmr6">
+	<name>indore</name>
+	<gx:CascadingStyle kml:id="__managed_style_01D71C16FC1CB3D13608">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11D9C47D1D1CB3D13607">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BAB524F711CB3D13607">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11D9C47D1D1CB3D13607</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_01D71C16FC1CB3D13608</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05C799DD6A1CB34DABA5">
+		<name>Indore Junction</name>
+		<gx:mid>/m/06w6vgd</gx:mid>
+		<gx:fid>0x3962fd1175bed6b5:0x2c1d732ce5412d</gx:fid>
+		<LookAt>
+			<longitude>75.86829259999999</longitude>
+			<latitude>22.71713829999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>965.5147323897712</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.86829259999999,22.7171383,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ECAC479A51CB35F69DA">
+		<name>Kalakund</name>
+		<gx:mid>/g/11dxch2q7c</gx:mid>
+		<gx:fid>0x3962f184aedee2fd:0x39fbbc2176fc789e</gx:fid>
+		<LookAt>
+			<longitude>75.85982799999999</longitude>
+			<latitude>22.4779812</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>967.3812951038682</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.85982799999999,22.4779812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C6194AE3A1CB35FAD05">
+		<name>Mhow</name>
+		<gx:mid>/m/011f1mqt</gx:mid>
+		<gx:fid>0x3962f9d79e4451cb:0xd85b0e1b07e4e08c</gx:fid>
+		<LookAt>
+			<longitude>75.77052929999999</longitude>
+			<latitude>22.5550149</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>966.7820388097094</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.77052929999999,22.5550149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6B94872A1CB35FE062">
+		<name>Patalpani Water Falls</name>
+		<gx:mid>/g/11bx1j867n</gx:mid>
+		<gx:fid>0x3962f6d6dd927a6b:0xe6eb9c8d85e01d65</gx:fid>
+		<LookAt>
+			<longitude>75.7987131</longitude>
+			<latitude>22.5038981</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>967.1798932490074</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.7987131,22.5038981,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F8EF069B11CB360E6BF">
+		<name>56 Dukan St</name>
+		<gx:mid>/g/1hjgt05ty</gx:mid>
+		<gx:fid>0x3962fd38f20167f1:0x9608bf8baf39e264</gx:fid>
+		<LookAt>
+			<longitude>75.88455519999999</longitude>
+			<latitude>22.7242795</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>965.4587194068738</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.88455519999999,22.7242795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01257AE40D1CB3620673">
+		<name>Kamla Nehru Prani Sangrahalaya, Indore</name>
+		<gx:mid>/g/11bxc5_psp</gx:mid>
+		<gx:fid>0x3962fd2081d0e7d3:0x72ef2ddac1d07198</gx:fid>
+		<LookAt>
+			<longitude>75.8798833</longitude>
+			<latitude>22.7019334</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>965.633940521814</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.8798833,22.7019334,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="093E0BE4891CB36A8C97">
+		<name>Regional Park Indore</name>
+		<gx:mid>/g/11gf3nvs2c</gx:mid>
+		<gx:fid>0x3962fcf50f83e44f:0x58d5f9a2235afed1</gx:fid>
+		<LookAt>
+			<longitude>75.8558338</longitude>
+			<latitude>22.6776303</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>965.8243281008262</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.8558338,22.6776303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0286B957591CB3CA8A59">
+		<name>Ralamandal Wildlife Sanctuary</name>
+		<gx:mid>/g/11clhssg59</gx:mid>
+		<gx:fid>0x3962e4bc83d6ec3b:0x21f65e186b28cd75</gx:fid>
+		<LookAt>
+			<longitude>75.91140739999999</longitude>
+			<latitude>22.6465708</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5158.864282382978</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.9114074,22.6465712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2A68A42C1CB3D2F2AC">
+		<name>Simcha Island - Adventure Park and Resort</name>
+		<gx:mid>/g/11cs39bt55</gx:mid>
+		<gx:fid>0x3962f8e14b968d2d:0xd1ba2dc3da876694</gx:fid>
+		<LookAt>
+			<longitude>75.7529993</longitude>
+			<latitude>22.6144278</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>966.3185761088832</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.7529993,22.6144278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="058AD9E4F71CB3D4D476">
+		<name>Mohadi Falls</name>
+		<gx:mid>/g/11c46lwzpk</gx:mid>
+		<gx:fid>0x3962e8a80dd875bd:0xf16db135391504e0</gx:fid>
+		<LookAt>
+			<longitude>76.00550439999999</longitude>
+			<latitude>22.5698358</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>966.6665296996887</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>76.00550439999999,22.5698358,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E1849C9E21CB78E1C6E">
+		<name>Devguradia City Forest</name>
+		<gx:mid>/g/11fx8c3grd</gx:mid>
+		<gx:fid>0x3962e366a9b00693:0x2f9c886c064f9447</gx:fid>
+		<LookAt>
+			<longitude>75.92877039999999</longitude>
+			<latitude>22.6662017</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>965.9137939532643</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BAB524F711CB3D13607</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>75.92877039999999,22.6662017,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
