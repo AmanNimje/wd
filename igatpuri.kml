@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>igatpuri</name>
+	<gx:CascadingStyle kml:id="__managed_style_09E155019B1D90DCA50B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15D7E5ECC81D90DCA50A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_017E52C0621D90DCA50A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15D7E5ECC81D90DCA50A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_09E155019B1D90DCA50B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C458C13F41D90C92CF5">
+		<name>Nashik Road Railway Station</name>
+		<gx:mid>/g/11g6mv0wvr</gx:mid>
+		<gx:fid>0x3bddbfe2ac04f2b5:0x1537a4466c8dcd29</gx:fid>
+		<LookAt>
+			<longitude>73.8423109</longitude>
+			<latitude>19.94797</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>986.0093593345036</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.8423109,19.94797,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B035A65FC1D90CB0881">
+		<name>Sula Vineyards</name>
+		<gx:mid>/m/05b_f1p</gx:mid>
+		<gx:fid>0x3bddedba795be8dd:0xb20dce447adb0a9d</gx:fid>
+		<LookAt>
+			<longitude>73.68849999999999</longitude>
+			<latitude>20.0068729</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>985.5991330081882</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.68849999999999,20.0068729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02DB2F586F1D90CBA22F">
+		<name>Someshwar Water Fall</name>
+		<gx:mid>/g/1tdd_thd</gx:mid>
+		<gx:fid>0x3bddec1682978165:0x75e5dfd33a421265</gx:fid>
+		<LookAt>
+			<longitude>73.72341489999999</longitude>
+			<latitude>20.0291612</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>985.4436129082867</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.72341489999999,20.0291612,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0413A028141D90CE5E06">
+		<name>Igatpuri Railway Station</name>
+		<gx:mid>/g/11gcm1ljyy</gx:mid>
+		<gx:fid>0x3bdd84291eea456b:0xd35b9dc2fae18677</gx:fid>
+		<LookAt>
+			<longitude>73.5635685</longitude>
+			<latitude>19.6944187</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>987.7623038062457</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.5635685,19.6944187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CFE4D77B1D90D9575C">
+		<name>Camel Valley Point</name>
+		<gx:mid>/g/11qprx6zlw</gx:mid>
+		<gx:fid>0x3bdd87f949c84041:0x4062a2011640a77</gx:fid>
+		<LookAt>
+			<longitude>73.5262501</longitude>
+			<latitude>19.696427</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>987.7485016382246</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.5262501,19.696427,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07372E32291D90DA9F4A">
+		<name>Vihigaon Falls</name>
+		<gx:mid>/g/11g_k77n_</gx:mid>
+		<gx:fid>0x3bdd878dd7e6b317:0x8b603e342ce0ffa4</gx:fid>
+		<LookAt>
+			<longitude>73.47470369999999</longitude>
+			<latitude>19.7115467</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>987.6445482976194</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.47470369999999,19.7115467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03220F6F651D90DBC722">
+		<name>Tringalwadi Fort</name>
+		<gx:mid>/g/11cs5ybq7z</gx:mid>
+		<gx:fid>0x3bdd86188857655d:0x9ca698e901218460</gx:fid>
+		<LookAt>
+			<longitude>73.53673119999999</longitude>
+			<latitude>19.7379775</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>987.462647952872</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.53673119999999,19.7379775,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06F9245AA71D90DC9D60">
+		<name>Kalsubai Peak</name>
+		<gx:mid>/m/03vz98</gx:mid>
+		<gx:fid>0x3bdd9da29a349bb1:0xd763db58ee98a373</gx:fid>
+		<LookAt>
+			<longitude>73.70915179999999</longitude>
+			<latitude>19.60122815</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5302.490538656329</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.7091518,19.6012285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E956D6C901D90DD1641">
+		<name>Harishchandragad trek start point Paachnai</name>
+		<gx:mid>/g/11pb7g3q1h</gx:mid>
+		<gx:fid>0x3bdd73bfb22ca121:0x423b4f912ce517c0</gx:fid>
+		<LookAt>
+			<longitude>73.7800436</longitude>
+			<latitude>19.4098611</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>989.7046257937955</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.7800436,19.4098611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A2C861C71D90DFE094">
+		<name>Umbrella Fall, Bhandardara</name>
+		<gx:mid>/g/1tfr8nbj</gx:mid>
+		<gx:fid>0x3bdd75da916f4281:0xdb03c80f41d87c67</gx:fid>
+		<LookAt>
+			<longitude>73.75753659999999</longitude>
+			<latitude>19.5484754</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>988.7617834500265</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.75753659999999,19.5484754,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C33CC8731D90E06707">
+		<name>Ratangad Fort Trek</name>
+		<gx:mid>/g/11gxn91pmw</gx:mid>
+		<gx:fid>0x3bdd77e53f234575:0xbcdc6c2b40f49981</gx:fid>
+		<LookAt>
+			<longitude>73.68342</longitude>
+			<latitude>19.5260049</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>988.9150525264379</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_017E52C0621D90DCA50A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>73.6834032,19.5260652,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
